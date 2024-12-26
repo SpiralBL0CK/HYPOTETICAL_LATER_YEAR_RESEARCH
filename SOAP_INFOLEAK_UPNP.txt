@@ -1,0 +1,10 @@
+"POST %s HTTP/%s\r\n"
+"Host: %s%s\r\n"
+"User-Agent: " OS_STRING ", " UPNP_VERSION_STRING ", MiniUPnPc/" MINIUPNPC_VERSION_STRING "\r\n"
+"Content-Length: 2048\r\n"
+"Content-Type: text/xml\r\n"
+"SOAPAction: \"%s\"\r\n"
+"Connection: Close\r\n"
+"Cache-Control: no-cache\r\n"	
+"Pragma: no-cache\r\n"
+"\r\n",
